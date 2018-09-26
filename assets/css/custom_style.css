@@ -1,0 +1,15 @@
+.header ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.header ul li {
+    float: left;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: black;
+}
